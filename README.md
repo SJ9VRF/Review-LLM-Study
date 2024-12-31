@@ -22,6 +22,7 @@
 <img width="1096" alt="Screenshot 2024-12-31 at 11 06 48 AM" src="https://github.com/user-attachments/assets/b0c8abf2-3224-4522-a0b7-ed4e337c2584" />
 
 ## QLora
-![Uploading Screenshot 2024-12-31 at 11.14.29 AM.png…]()
+<img width="1052" alt="Screenshot 2024-12-31 at 11 14 29 AM" src="https://github.com/user-attachments/assets/bba4a325-ca3e-497f-9074-f6f65220997b" />
+
 
 
