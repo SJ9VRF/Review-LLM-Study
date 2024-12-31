@@ -13,3 +13,8 @@
 
 <img width="1086" alt="Screenshot 2024-12-31 at 10 56 59 AM" src="https://github.com/user-attachments/assets/cce309f4-f283-4462-9798-94f6bf437202" />
 
+## LORA
+<img width="1096" alt="Screenshot 2024-12-31 at 11 06 48 AM" src="https://github.com/user-attachments/assets/b0c8abf2-3224-4522-a0b7-ed4e337c2584" />
+
+
+
