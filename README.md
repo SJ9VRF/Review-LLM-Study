@@ -24,5 +24,7 @@
 ## QLora
 <img width="1052" alt="Screenshot 2024-12-31 at 11 14 29 AM" src="https://github.com/user-attachments/assets/bba4a325-ca3e-497f-9074-f6f65220997b" />
 
+# Agents and Memory
+<img width="1212" alt="Screenshot 2025-01-01 at 10 02 06 AM" src="https://github.com/user-attachments/assets/4cc96f76-e99e-4700-be9b-6815468f0d09" />
 
 
